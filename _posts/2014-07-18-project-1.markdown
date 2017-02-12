@@ -1,0 +1,17 @@
+---
+title: 피지오겔 로션
+layout: default
+modal-id: 1
+date: '2014-07-18'
+img: physiogel_lotion.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: |-
+  피부 본연의 구조에 착안한 피지오겔의 바이오미믹 테크놀로지®는
+  피부에 존재하는 지질층과 유사한 성분1으로 이루어져 건조한 피부에
+  지질 성분을 보충하는 작용을 합니다.
+title_urlencode: "%C7%C7%C1%F6%BF%C0%B0%D6+%B7%CE%BC%C7"
+---
+
