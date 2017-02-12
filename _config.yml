@@ -1,16 +1,16 @@
 ---
-title: 친환경 제품 큐레이션 리스트
+title: Natual Awesome
 email: your-email@domain.com
 url: https://example.github.io
 description: Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
   results) and in your feed.xml site description.
-skills: 생활용품 - 식료품 - 가구
+skills: 내추럴 어썸 - 친환경 제품 모아보기
 meta_author: LastName FirstName
 google_verify: 
 bing_verify: 
-contact: static
-disqus_shortname: myshortname
+contact: disqus
+disqus_shortname: natural-list
 color:
   primary: 18bc9c
   primary-rgb: '24,288,156'
